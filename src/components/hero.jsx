@@ -1,6 +1,5 @@
 import { useEffect, useRef } from 'react'
 import bellsImage from '../assets/bells2.webp'
-import restImage from '../assets/web.jpg'
 import heroImage from '../assets/khaffa.webp'
 import bekalImage from '../assets/bekal.png'
 
@@ -90,7 +89,7 @@ export default function Hero() {
       <div className="noise" aria-hidden="true" />
       <nav className="site-nav" aria-label="Main navigation">
         <a className="wordmark" href="#top" aria-label="Khaffa Daru Hastri home">
-          KD<span>.</span>
+          Khaffa<span>.</span>
         </a>
         <div className="nav-links">
           <a href="#work">Projects</a>
