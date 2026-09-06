@@ -192,7 +192,8 @@ export default function Hero() {
         <a className="contact-email" href="mailto:khaffadaru@gmail.com">khaffadaru@gmail.com <span aria-hidden="true">↗</span></a>
         <a className="contact-insta" href="https://www.instagram.com/khaffadaruhstr/">Instagram</a>
         <a className="contact-insta" href="https://www.linkedin.com/in/khaffa-daru-hastri-974b83312/">Linkedin</a>
-        <div className="contact-meta"><span>Instagram / LinkedIn</span><span>2026 Khaffa Daru Hastri</span></div>
+        <a className="contact-insta" href="https://github.com/kapadaru">GitHub</a>
+        <div className="contact-meta"><span>Instagram / LinkedIn / GitHub</span><span>2026 Khaffa Daru Hastri</span></div>
       </section>
     </main>
   )
